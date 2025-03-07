@@ -4,3 +4,4 @@ cimg/python:3.10.16
 
 # open-webui
 ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:gpu
