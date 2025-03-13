@@ -2,3 +2,4 @@
 # --platform=linux/amd64
 centos:centos7.9.2009
 prom/prometheus:latest
+ubuntu:20.04
