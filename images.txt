@@ -1,5 +1,4 @@
 # 支持指定架构
 # --platform=linux/amd64
-cimg/python:3.10.16
 centos:centos7.9.2009
 prom/prometheus:latest
