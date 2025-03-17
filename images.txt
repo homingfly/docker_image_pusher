@@ -10,5 +10,7 @@ node:alpine3.20
 python:3.9.21
 nginx:stable
 alpine:latest
+alpine:3.14
 redis:latest
 mysql:latest
+openjdk:17
