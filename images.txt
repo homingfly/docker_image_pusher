@@ -5,3 +5,4 @@ prom/prometheus:latest
 ubuntu:20.04
 golang:latest
 golang:alpine3.21
+paketobuildpacks/nodejs:latest
