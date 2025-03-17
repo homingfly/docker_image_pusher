@@ -4,3 +4,4 @@ centos:centos7.9.2009
 prom/prometheus:latest
 ubuntu:20.04
 golang:latest
+golang:alpine3.21
