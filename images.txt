@@ -6,3 +6,9 @@ ubuntu:20.04
 golang:latest
 golang:alpine3.21
 paketobuildpacks/nodejs:latest
+node:alpine3.20
+python:3.9.21
+nginx:stable
+alpine:latest
+redis:latest
+mysql:latest
