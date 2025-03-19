@@ -14,3 +14,5 @@ alpine:3.14
 redis:latest
 mysql:latest
 openjdk:17
+prom/node-exporter:latest
+grafana/grafana:latest
