@@ -16,3 +16,4 @@ mysql:latest
 openjdk:17
 prom/node-exporter:latest
 grafana/grafana:latest
+amd64/node
