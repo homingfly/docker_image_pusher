@@ -1,5 +1,7 @@
 # 支持指定架构
 # --platform=linux/amd64
+elasticsearch:8.16.6
+kibana:8.16.6
 debian:buster-slim
 centos:centos7.9.2009
 prom/prometheus:latest
