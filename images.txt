@@ -4,6 +4,7 @@ prom/prometheus:v2.47.0
 grafana/grafana:10.2.3
 prom/node-exporter:v1.6.1
 prom/alertmanager:v0.26.0
+mongodb/mongodb-community-server:7.0.3-ubi8
 elasticsearch:8.16.6
 kibana:8.16.6
 debian:buster-slim
