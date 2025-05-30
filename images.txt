@@ -1,5 +1,6 @@
 # 支持指定架构
 # --platform=linux/amd64
+mongo:4.0
 mongo-express:latest
 mongo:8.0-rc
 prom/prometheus:v2.47.0
